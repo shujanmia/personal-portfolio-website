@@ -11,6 +11,8 @@ h1{
 h2{
     font-family: 'Bebas Neue', cursive;
     text-align: center;
+    font-size: 40px;
+    padding: 0;
 }
 p{
     color: #363958;
@@ -81,7 +83,7 @@ p{
     background-image: url(images/buttom-background.png);
     background-repeat: no-repeat;
     height: 150px;
-    width: 600px;
+    width: 690px;
     background-position: center;
     background-size: cover;
     border-radius: 27px;
