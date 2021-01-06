@@ -1,0 +1,121 @@
+
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+h2{
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+}
+p{
+    color: #363958;
+}
+.orange-highlight{
+    color: #FF8367;
+}
+.top-section {
+    margin-top: 0px;
+    display: block;
+    overflow: hidden;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 15px 45px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.about-section{
+    margin-top: 40px;
+}
+.red-highlight{
+    color: red;
+}
+.three-part {
+    width: 26.66666%;
+    float: left;
+    margin-left: 4%;
+    border: 10px solid white;
+    border-radius: 20px;
+    background: white;
+    box-shadow: 1px 1px 7px 0px #cacaca;
+}
+.three-part img{
+    width: 100%;
+}
+#heading-padding{
+    padding-bottom: 20px;
+}
+.project-section {
+    padding: 40px;
+    background-color: #F8F9FC;
+    display: block;
+    overflow: hidden;
+}
+
+.bottom-section{
+    margin-top: 100px;
+    display: block;
+    overflow: hidden;
+}
+.focus{
+    background-image: url(images/buttom-background.png);
+    background-repeat: no-repeat;
+    height: 150px;
+    width: 600px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 27px;
+    display: block;
+    margin: auto;
+}
+.focus .left-part{
+    float: left;
+    font-size: 22px;
+    padding: 28px 32px 20px 59px;
+    color: #fff;
+    font-style: normal;
+}
+.focus .right-part{
+    float: right;
+    padding: 60px 47px 10px 10px;
+}
+.focus .right-part a{
+    display: block;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-size: 11px;
+}
+.copyright{
+    margin: 30px auto;
+    display: block;
+    width: 313px;
+    padding-bottom: 0px;
+    padding-top: 40px;
+}
+
+.copyright h3{
+    display: block;
+}
